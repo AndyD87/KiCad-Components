@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0  Date: Di 23 Okt 2012 15:19:21 CEST
+#
+$CMP LED_SF
+D LED_Superflux
+K LED Superflux
+$ENDCMP
+#
+$CMP LED_SF_RGB
+D LED_Superflux_RGB
+K LED Superflux
+$ENDCMP
+#
+#End Doc Library
