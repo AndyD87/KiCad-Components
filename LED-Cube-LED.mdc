@@ -1,0 +1,9 @@
+PCBNEW-LibDoc----V1  27.02.2011 12:01:53
+#
+$MODULE LED f 8-Cube
+Li LED f 8-Cube
+Cd LED fuer den LED-Cube
+Kw LED Cube
+$EndMODULE
+#
+$EndLIBDOC

@@ -1,0 +1,15 @@
+PCBNEW-LibDoc----V1  22.08.2012 09:20:12
+#
+$MODULE LED-5MM
+Li LED-5MM
+Cd LED 5mm - Lead pitch 100mil (2,54mm)
+Kw LED led 5mm 5MM 100mil 2,54mm
+$EndMODULE
+#
+$MODULE LED-5MM-RGB
+Li LED-5MM-RGB
+Cd LED 5mm - Lead pitch 100mil (2,54mm)
+Kw LED led 5mm 5MM 100mil 2,54mm
+$EndMODULE
+#
+$EndLIBDOC
