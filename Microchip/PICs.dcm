@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP PIC18F4420
+D PIC18F4420 DIP Device
+K Microchip 8bit MCU Familiy
+F http://ww1.microchip.com/downloads/en/devicedoc/39631e.pdf
+$ENDCMP
+#
 #End Doc Library
