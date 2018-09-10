@@ -1,7 +1,9 @@
 # Microchip Components
 
-## PIC
+## PICs
 
 - PIC16F1503
+- PIC18F2420
+- PIC18F2520
 - PIC18F4420
 - PIC18F4520
